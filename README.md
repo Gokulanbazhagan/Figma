@@ -29,9 +29,124 @@ Validate the HTML and CSS code.
 Publish the website in the given URL.
 
 ## DESIGN TOOL:
+```
 Figma
+/* Home Page */
+position: relative;
+width: 360px;
+height: 640px;
+background: #FF0808;
 
+/* Login Page */
+position: relative;
+width: 360px;
+height: 640px;
+background: #FFF50F;
+
+/* Saveetha Engineering College */
+position: absolute;
+width: 324px;
+height: 36px;
+left: 18px;
+top: 13px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+color: #101010;
+
+/* DEPARTMENTS */
+position: absolute;
+width: 324px;
+height: 36px;
+left: 18px;
+top: 247px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+color: #101010;
+
+/* AI-ML */
+position: absolute;
+width: 324px;
+height: 36px;
+left: 18px;
+top: 317px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+color: #101010;
+
+/* AI-DS */
+position: absolute;
+width: 324px;
+height: 36px;
+left: 18px;
+top: 373px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+color: #101010;
+
+/* IOT */
+position: absolute;
+width: 324px;
+height: 36px;
+left: 18px;
+top: 429px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+color: #101010;
+
+/* CC */
+position: absolute;
+width: 324px;
+height: 36px;
+left: 18px;
+top: 485px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+color: #101010;
+
+/* Line 3 */
+position: absolute;
+width: 360px;
+height: 0px;
+left: 0px;
+top: 83px;
+border: 4px solid #172DF5;
+
+/* Logo 3 */
+position: absolute;
+width: 105px;
+height: 96px;
+left: 127px;
+top: 117px;
+background: url(Logo.png);
+```
 ## OUTPUT:
+![Screenshot (45)](https://user-images.githubusercontent.com/119518996/215165234-c628f331-56c9-4e16-a077-d006f2cba898.png)
+![Screenshot (46)](https://user-images.githubusercontent.com/119518996/215165274-91e45460-3cf4-43da-bfc9-e8dbeaa9d263.png)
+![Screenshot (47)](https://user-images.githubusercontent.com/119518996/215165313-d3bf39f2-ace1-4eb9-bc0a-bdc74a27bf5f.png)
 
 
 ## RESULT:
